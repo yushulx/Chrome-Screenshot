@@ -4,4 +4,4 @@ version 1.0
 
 Introduction
 -----------
-Save current tab content to JPEG file by one click.
+Save web page screenshots to image files by one click.
